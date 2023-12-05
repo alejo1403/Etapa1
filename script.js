@@ -1,6 +1,6 @@
 document.addEventListener('DOMContentLoaded', function () {
     // Código para leer el archivo y procesar los datos
-    // Crea una función para procesar y mostrar los datos en la tabla
+    
 });
 
 fetch('dummyData.txt')

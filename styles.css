@@ -12,14 +12,14 @@ table {
     width: 100%;
     border-collapse: collapse;
     margin-top: 20px;
-    border: 1px solid black; /* Color del borde de las celdas */
+    border: 1px solid black; 
 
 }
 
 th, td {
-    border: 1px solid black; /* Color del borde de las celdas */
+    border: 1px solid black; 
     padding: 8px;
-    text-align: center; /* Centrar los datos */
+    text-align: center; 
     
 }
 
